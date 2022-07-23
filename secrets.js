@@ -1,5 +1,5 @@
-let email="gargvishu2000@gmail.com";
-let password="Ipu@1754";
+let email="@gmail.com";
+let password=".";
 module.exports={
 email:email,
 password:password
